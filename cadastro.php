@@ -79,10 +79,10 @@ class Visitante extends Pessoa {
 
 // EXEMPLO DE USO
 $pessoasNoCampus = [
-    new Estudante("Ana Souza", "Sistemas de Informação", "20231SIS001"),
-    new Professor("Marcos Raimundo", "Docente", 7200.00, "Segurança da Informação"),
-    new Servidor("José Ferreira", "Técnico Administrativo", 4100.00, "Secretaria Acadêmica"),
-    new Visitante("Carlos Mendes", "RG 2022123-9")
+    new Estudante("Pedro Roberto Ribeiro Bandeira Labre", "Sistemas de Informação", "202410630002"),
+    new Professor("Marcos Raimundo", "Docente", 7200.00, "Sistemas de Informação"),
+    new Servidor("Milton", "Diretor", 14100.00, "Secretaria Acadêmica"),
+    new Visitante("Fulano", "RG 2022123-9")
 ];
 
 echo "<h2>Cadastro de Pessoas no Campus IFTO</h2>";
